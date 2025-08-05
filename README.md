@@ -18,6 +18,8 @@ User authentication & authorization using JWT, with secured routes and protected
 React-based shopping cart with Firebase real-time database and Redux for state management.  
 🔗 [View Project](https://github.com/yosrabenhmida/E-commerce)
 
+🔹 **Cloud & Virtualization**: Basic knowledge of cloud computing (IaaS, PaaS, SaaS).
+Virtual machine deployment simulations.
 
 ## 🧑‍💻 Professional Experience
 
