@@ -1,94 +1,112 @@
-# 👩‍💻 Yosra Ben Hmida
+👩‍💻 Yosra Ben Hmida
 
-Welcome to my GitHub!  
-I’m a Telecommunications Engineering graduate with a strong interest in web development, backend technologies, and data security.  
+Welcome to my GitHub!
+
+
+I’m a Telecommunications Engineering graduate with a strong interest in web development, backend technologies, and data security.
 I’m passionate about building full-stack applications and continuously learning modern development practices.
 
-## 💼 Projects
 
-🔹 **Node Farm**  
-Dynamic interface built with HTML, CSS, and JavaScript — generates product pages using structured JSON data.  
-🔗 [View Project](https://github.com/yosrabenhmida/self-projectNode)
+💼 Projects
 
-🔹 **Authentication System with Node.js & MongoDB**  
-User authentication & authorization using JWT, with secured routes and protected data storage.  
-🔗 (Coming soon...)
+🔹 Node Farm – Full Stack Project
+Duration: Jul 2024 – Aug 2024
 
-🔹 **E-commerce Ordering System**  
-React-based shopping cart with Firebase real-time database and Redux for state management.  
-🔗 [View Project](https://github.com/yosrabenhmida/E-commerce)
+Tech stack: HTML, CSS, JavaScript, Node.js, JSON
+Built a dynamic web interface that generates product cards based on structured JSON data.
+Designed responsive layouts and implemented routing between product pages.
+Demonstrated full-stack workflow: data structuring → UI rendering.
 
-🔹 **Cloud & Virtualization**: Basic knowledge of cloud computing (IaaS, PaaS, SaaS).
-Virtual machine deployment simulations.
+🔹 Authentication System – Node.js & MongoDB
+Duration: Jun 2024 – Aug 2024
 
-## 🧑‍💻 Professional Experience
+Tech stack: Node.js, Express, MongoDB, JWT
+Developed a secure user authentication and authorization system using JSON Web Tokens (JWT).
+Protected routes based on user roles (admin/user), handled sessions, and performed form validation.
+Ensured secure data persistence with Mongoose and applied best practices for API security.
+Implemented logout functionality, access token expiry, and secure cookie settings.
 
-**Dundill – Final-year Internship**  
-*Dec 2024 – Jun 2025 | Akouda, Sousse*  
-- Developed a REST API for real estate management (CRUD) using MongoDB.  
-- Delivered a secure and scalable backend system.
+🔹 E-commerce Ordering System
+Duration: Feb 2024 – Mar 2024
 
-**Booster BC – Web Developer**  
-*Jun 2024 – Jul 2024 | Mrezga, Nabeul*  
-- Implemented user authentication, authorization, password reset, and email sending.  
-- Handled JWT-based session management, data sanitization, and security enhancements.
+Tech stack: React, Firebase, Redux
+Built an intuitive shopping cart with real-time updates using Firebase Realtime Database.
+Enabled adding/removing/editing cart items with state management via Redux.
+Integrated product storage and updates via Firestore, demonstrating frontend/backend synchronization.
+Focused on scalability and user experience in a Single Page Application (SPA).
 
-**Sofirux – Web Developer**  
-*Aug 2023 – Sep 2023 | Nabeul, Nabeul*  
-- Contributed to the development of web applications using Symfony.  
-- Followed modern development and design best practices.
 
-**UIB – Customer Service Representative**  
-*Jul 2023 – Aug 2023 | Nabeul, Nabeul*  
-- Gained in-depth knowledge of banking operations and account management processes.
+🔹 Cloud & Virtualization
 
-**STB – Bank Cashier Intern**  
-*Jul 2022 – Aug 2022 | Dar Chaabenne El Fehri, Nabeul*  
-- Explored banking operations and gained a strong understanding of the financial sector.
+Basic knowledge of cloud computing (IaaS, PaaS, SaaS).
+Simulated virtual machine deployments.
 
-## 🛠 Skills
 
-**Frontend**: HTML, CSS, JavaScript, React, Next.js  
+🧑‍💻 Professional Experience
+
+Dundill – Final-year Internship
+Dec 2024 – Jun 2025 | Akouda, Sousse
+
+Developed a REST API for real estate management (CRUD) using MongoDB.
+Delivered a secure and scalable backend system.
+
+Booster BC – Web Developer
+Jun 2024 – Jul 2024 | Mrezga, Nabeul
+
+Implemented user authentication, authorization, password reset, and email sending.
+Managed JWT-based sessions, data sanitization, and security enhancements.
+
+Sofirux – Web Developer
+Aug 2023 – Sep 2023 | Nabeul, Nabeul
+
+Contributed to web application development using Symfony.
+Followed modern development and design best practices.
+
+UIB – Customer Service Representative
+Jul 2023 – Aug 2023 | Nabeul, Nabeul
+
+Gained in-depth knowledge of banking operations and account management.
+
+STB – Bank Cashier Intern
+Jul 2022 – Aug 2022 | Dar Chaabenne El Fehri, Nabeul
+
+Explored banking operations and developed a strong understanding of the financial sector.
+
+
+🛠 Skills
+
+Frontend: HTML, CSS, JavaScript, React, Next.js
 ●●●●○
 
-**Backend**: Node.js, Express.js, Mongoose, XAMPP  
+Backend: Node.js, Express.js, Mongoose, XAMPP
 ●●●●○
 
-**Databases**: SQL, Firebase, MongoDB  
+Databases: SQL, Firebase, MongoDB
 ●●●●○
 
-**Version Control**: Git, GitHub  
+Version Control: Git, GitHub
 ●●●●○
 
-**Programming Languages**: JavaScript, C, PHP, MATLAB, Assembly  
+Programming Languages: JavaScript, C, PHP, MATLAB, Assembly
 ●●●○○
 
-**Web Concepts**: HTTPS, JSON  
+Web Concepts: HTTPS, JSON
 ●●●○○
 
-**Agile Methodologies**: Scrum  
+Agile Methodologies: Scrum
 ●●●○○
 
-**Operating System**: Ubuntu  
+Operating Systems: Ubuntu
 ●●●○○
 
-**Backend Security**: JWT, Authentication and Authorization, Secure Cookies, Nodemailer  
+Backend Security: JWT, Authentication & Authorization, Secure Cookies, Nodemailer
 ●●●●○
 
+🌍 Languages
 
-## 🌍 Languages
+French: Advanced
+English: Professional
+Turkish: Intermediate
+Italian: Beginner
 
-**Arabic**: Native  
-**French**: Advanced  
-**English**: Professional  
-**Turkish**: Intermediate  
-**Italian**: Beginner
-
-
-## 📄 CV
-
-👉 [Check my resume here](https://github.com/yosrabenhmida)
-
----
-
-Thanks for visiting 🙏
+Thanks for visiting! 🙏
